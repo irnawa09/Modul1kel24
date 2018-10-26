@@ -1,0 +1,12 @@
+C:\Users\asus\source\repos\Kelompok24_Modul1\Kelompok24_Modul1\Kelompok24_Modul1\bin\Debug\netstandard2.0\Kelompok24_Modul1.deps.json
+C:\Users\asus\source\repos\Kelompok24_Modul1\Kelompok24_Modul1\Kelompok24_Modul1\bin\Debug\netstandard2.0\Kelompok24_Modul1.dll
+C:\Users\asus\source\repos\Kelompok24_Modul1\Kelompok24_Modul1\Kelompok24_Modul1\bin\Debug\netstandard2.0\Kelompok24_Modul1.pdb
+C:\Users\asus\source\repos\Kelompok24_Modul1\Kelompok24_Modul1\Kelompok24_Modul1\obj\Debug\netstandard2.0\Kelompok24_Modul1.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\Kelompok24_Modul1\Kelompok24_Modul1\Kelompok24_Modul1\obj\Debug\netstandard2.0\Kelompok24_Modul1.App.xaml.g.cs
+C:\Users\asus\source\repos\Kelompok24_Modul1\Kelompok24_Modul1\Kelompok24_Modul1\obj\Debug\netstandard2.0\Kelompok24_Modul1.LoginPage..xaml.g.cs
+C:\Users\asus\source\repos\Kelompok24_Modul1\Kelompok24_Modul1\Kelompok24_Modul1\obj\Debug\netstandard2.0\Kelompok24_Modul1.MainPage.xaml.g.cs
+C:\Users\asus\source\repos\Kelompok24_Modul1\Kelompok24_Modul1\Kelompok24_Modul1\obj\Debug\netstandard2.0\Kelompok24_Modul1.SignUpPage.xaml.g.cs
+C:\Users\asus\source\repos\Kelompok24_Modul1\Kelompok24_Modul1\Kelompok24_Modul1\obj\Debug\netstandard2.0\Kelompok24_Modul1.AssemblyInfoInputs.cache
+C:\Users\asus\source\repos\Kelompok24_Modul1\Kelompok24_Modul1\Kelompok24_Modul1\obj\Debug\netstandard2.0\Kelompok24_Modul1.AssemblyInfo.cs
+C:\Users\asus\source\repos\Kelompok24_Modul1\Kelompok24_Modul1\Kelompok24_Modul1\obj\Debug\netstandard2.0\Kelompok24_Modul1.dll
+C:\Users\asus\source\repos\Kelompok24_Modul1\Kelompok24_Modul1\Kelompok24_Modul1\obj\Debug\netstandard2.0\Kelompok24_Modul1.pdb
